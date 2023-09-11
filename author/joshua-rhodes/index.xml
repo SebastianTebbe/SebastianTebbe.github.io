@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joshua Rhodes | Blake Shaffer</title>
+    <link>https://blakeshaffer.ca/author/joshua-rhodes/</link>
+      <atom:link href="https://blakeshaffer.ca/author/joshua-rhodes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joshua Rhodes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Blake Shaffer 2023</copyright><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://blakeshaffer.ca/media/icon_hucbd076c3177df019c50b843f17be2ee3_61142_512x512_fill_lanczos_center_3.png</url>
+      <title>Joshua Rhodes</title>
+      <link>https://blakeshaffer.ca/author/joshua-rhodes/</link>
+    </image>
+    
+    <item>
+      <title>Changing sensitivity to cold weather in Texas power demand</title>
+      <link>https://blakeshaffer.ca/publication/iscience2022/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://blakeshaffer.ca/publication/iscience2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

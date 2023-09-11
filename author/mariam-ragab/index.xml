@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mariam Ragab | Blake Shaffer</title>
+    <link>https://blakeshaffer.ca/author/mariam-ragab/</link>
+      <atom:link href="https://blakeshaffer.ca/author/mariam-ragab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mariam Ragab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Blake Shaffer 2023</copyright><lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://blakeshaffer.ca/media/icon_hucbd076c3177df019c50b843f17be2ee3_61142_512x512_fill_lanczos_center_3.png</url>
+      <title>Mariam Ragab</title>
+      <link>https://blakeshaffer.ca/author/mariam-ragab/</link>
+    </image>
+    
+    <item>
+      <title>The price of power: Comparative electricity costs across provinces</title>
+      <link>https://blakeshaffer.ca/publication/cdhowe_power_2020/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://blakeshaffer.ca/publication/cdhowe_power_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

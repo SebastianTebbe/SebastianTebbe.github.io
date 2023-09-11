@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID-19 | Blake Shaffer</title>
+    <link>https://blakeshaffer.ca/tag/covid-19/</link>
+      <atom:link href="https://blakeshaffer.ca/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <description>COVID-19</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Blake Shaffer 2023</copyright><lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://blakeshaffer.ca/media/icon_hucbd076c3177df019c50b843f17be2ee3_61142_512x512_fill_lanczos_center_3.png</url>
+      <title>COVID-19</title>
+      <link>https://blakeshaffer.ca/tag/covid-19/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 Vaccine–Related Attitudes and Beliefs in Canada: National Cross-sectional Survey and Cluster Analysis</title>
+      <link>https://blakeshaffer.ca/publication/jmir2021/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://blakeshaffer.ca/publication/jmir2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of non-adopters of COVID-19 non-pharmaceutical interventions through a national cross-sectional survey to assess attitudes and behaviours</title>
+      <link>https://blakeshaffer.ca/publication/scirep2021/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://blakeshaffer.ca/publication/scirep2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attitudes, behaviours and barriers to public health measures for COVID-19: a survey to inform public health messaging</title>
+      <link>https://blakeshaffer.ca/publication/bmc2021/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://blakeshaffer.ca/publication/bmc2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canadian electricity markets during the COVID-19 pandemic: An initial assessment</title>
+      <link>https://blakeshaffer.ca/publication/leachriversshaffer2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://blakeshaffer.ca/publication/leachriversshaffer2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

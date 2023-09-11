@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Bataille | Blake Shaffer</title>
+    <link>https://blakeshaffer.ca/author/chris-bataille/</link>
+      <atom:link href="https://blakeshaffer.ca/author/chris-bataille/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Bataille</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Blake Shaffer 2023</copyright><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://blakeshaffer.ca/media/icon_hucbd076c3177df019c50b843f17be2ee3_61142_512x512_fill_lanczos_center_3.png</url>
+      <title>Chris Bataille</title>
+      <link>https://blakeshaffer.ca/author/chris-bataille/</link>
+    </image>
+    
+    <item>
+      <title>The role of hydrogen in Canada&#39;s transition to net-zero emissions</title>
+      <link>https://blakeshaffer.ca/publication/spp_hydrogen_paper1_2021/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://blakeshaffer.ca/publication/spp_hydrogen_paper1_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of hydrogen in decarbonizing Alberta&#39;s electricity system</title>
+      <link>https://blakeshaffer.ca/publication/spp_hydrogen_paper2_2021/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://blakeshaffer.ca/publication/spp_hydrogen_paper2_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

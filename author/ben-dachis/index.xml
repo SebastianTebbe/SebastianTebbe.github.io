@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Dachis | Blake Shaffer</title>
+    <link>https://blakeshaffer.ca/author/ben-dachis/</link>
+      <atom:link href="https://blakeshaffer.ca/author/ben-dachis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ben Dachis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Blake Shaffer 2023</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://blakeshaffer.ca/media/icon_hucbd076c3177df019c50b843f17be2ee3_61142_512x512_fill_lanczos_center_3.png</url>
+      <title>Ben Dachis</title>
+      <link>https://blakeshaffer.ca/author/ben-dachis/</link>
+    </image>
+    
+    <item>
+      <title>All’s Well that Ends Well: Addressing End-of-Life Liabilities for Oil and Gas Wells</title>
+      <link>https://blakeshaffer.ca/publication/cdhi2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://blakeshaffer.ca/publication/cdhi2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
