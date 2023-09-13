@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sebastian Tebbe</title>
-    <link>https://blakeshaffer.ca/</link>
-      <atom:link href="https://blakeshaffer.ca/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sebastiantebbe.github.io/</link>
+      <atom:link href="https://sebastiantebbe.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Tebbe</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://blakeshaffer.ca/media/icon_hucbd076c3177df019c50b843f17be2ee3_61142_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sebastiantebbe.github.io/media/icon_hucbd076c3177df019c50b843f17be2ee3_61142_512x512_fill_lanczos_center_3.png</url>
       <title>Sebastian Tebbe</title>
-      <link>https://blakeshaffer.ca/</link>
+      <link>https://sebastiantebbe.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://blakeshaffer.ca/talk/example-talk/</link>
+      <link>https://sebastiantebbe.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://blakeshaffer.ca/talk/example-talk/</guid>
+      <guid>https://sebastiantebbe.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,51 +34,51 @@
     
     <item>
       <title>Peer Effects in Electric Car Adoption: Evidence from Sweden</title>
-      <link>https://blakeshaffer.ca/publication/peer-effects-in-electric-car-adoption/</link>
+      <link>https://sebastiantebbe.github.io/publication/peer-effects-in-electric-car-adoption/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://blakeshaffer.ca/publication/peer-effects-in-electric-car-adoption/</guid>
+      <guid>https://sebastiantebbe.github.io/publication/peer-effects-in-electric-car-adoption/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Road Pricing with Multiple Policy Goals: The Effect on Vehicle Ownership, Driving, and Commuting</title>
-      <link>https://blakeshaffer.ca/publication/road-pricing/</link>
+      <link>https://sebastiantebbe.github.io/publication/road-pricing/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://blakeshaffer.ca/publication/road-pricing/</guid>
+      <guid>https://sebastiantebbe.github.io/publication/road-pricing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Do we all coordinate in the long run?</title>
-      <link>https://blakeshaffer.ca/publication/journal-of-economic-science-association-2023/</link>
+      <link>https://sebastiantebbe.github.io/publication/journal-of-economic-science-association-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://blakeshaffer.ca/publication/journal-of-economic-science-association-2023/</guid>
+      <guid>https://sebastiantebbe.github.io/publication/journal-of-economic-science-association-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://blakeshaffer.ca/privacy/</link>
+      <link>https://sebastiantebbe.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://blakeshaffer.ca/privacy/</guid>
+      <guid>https://sebastiantebbe.github.io/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://blakeshaffer.ca/terms/</link>
+      <link>https://sebastiantebbe.github.io/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://blakeshaffer.ca/terms/</guid>
+      <guid>https://sebastiantebbe.github.io/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://blakeshaffer.ca/admin/config.yml</link>
+      <link>https://sebastiantebbe.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blakeshaffer.ca/admin/config.yml</guid>
+      <guid>https://sebastiantebbe.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
