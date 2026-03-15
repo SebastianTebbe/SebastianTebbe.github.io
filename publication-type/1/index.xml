@@ -5,12 +5,20 @@
     <link>https://sebastiantebbe.github.io/publication-type/1/</link>
       <atom:link href="https://sebastiantebbe.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastiantebbe.github.io/media/icon_hu8575c302a0f1558d1305ed1f7a7f5357_36786_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://sebastiantebbe.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Road Pricing with Green Vehicle Exemptions: Theory and Evidence</title>
+      <link>https://sebastiantebbe.github.io/publication/road-pricing/</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://sebastiantebbe.github.io/publication/road-pricing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Peer Effects in Electric Car Adoption: Evidence from Sweden</title>
@@ -25,14 +33,6 @@
       <link>https://sebastiantebbe.github.io/publication/charging-infrastructure/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://sebastiantebbe.github.io/publication/charging-infrastructure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Road Pricing with Green Vehicle Exemptions: Theory and Evidence</title>
-      <link>https://sebastiantebbe.github.io/publication/road-pricing/</link>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://sebastiantebbe.github.io/publication/road-pricing/</guid>
       <description></description>
     </item>
     
